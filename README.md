@@ -45,8 +45,8 @@ I also suggest you to use them
 			DR12v4-CMASS/xyzw.binsplitted/PatchyV6C*.tar.gz
 
 
-	3. If you want to test the systematics effects of mask, fiber collision (i.e. close pair) | let me upload them soon...
-			complete_mocks_NGC/*.tar.gz
+	3. If you want to test the systematics effects of mask, fiber collision (i.e. close pair) 
+			DR12v4-CMASS-N_test/*.tar.gz
 
 
 
